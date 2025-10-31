@@ -1,6 +1,6 @@
-# Personal Spending Analysis Dashboard 💰📊
+# Expense Insights 💰📊
 
-Analyze a year of personal spending to uncover trends, top expenses, and spending habits. Visual dashboards show spending by category, merchant, payment method, and over time, including rolling averages to highlight consistent patterns.  
+A Python project that analyzes a full year of spending data to uncover trends, top expenses, and patterns. Visual dashboards make it easy to see spending by category, merchant, payment method, and over time.
 
 ---
 ## Features 
