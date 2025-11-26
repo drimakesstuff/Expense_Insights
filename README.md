@@ -22,6 +22,11 @@ A Python project that analyzes a full year of spending data to uncover trends, t
 2. Run the Python scripts to generate insights and charts.
 
 ---
+## Insights
+
+This data shows a spending pattern that splits almost perfectly between cash and online payments, with Sundays emerging as the biggest spending day and Fridays the quietest. The top merchants reflect a blend of essentials and everyday habits—Walmart, rent, Apple, Starbucks—highlighting where most money consistently flows. Over time, the rolling average suggests steady spending with periodic spikes, likely tied to routine cycles or bigger purchases, while the category totals point to a balanced mix of practical needs, personal treats, and productivity-related costs.
+
+---
 ## Author 
 
 Dri – BSc Data Science student
